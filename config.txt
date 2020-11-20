@@ -1,0 +1,10 @@
+{
+	"domain1": { 
+		"username": "someName", 
+		"password": "somePassword" 
+	},
+	"domain2": { 
+		"username": "someOtherName", 
+		"password": "someOtherPassword" 
+	}
+}
